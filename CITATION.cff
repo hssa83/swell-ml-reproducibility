@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "A Domain-Informed Data Cleaning Framework for Geotechnical Machine Learning"
+authors:
+  - family-names: Alharbi
+    given-names: Hani S.
+    affiliation: Shaqra University
+    orcid: https://orcid.org/0009-0003-6066-6648  
+date-released: 2025-06-17
+version: 1.0-paper
+doi: 10.5281/zenodo.15685091
+url: https://doi.org/10.5281/zenodo.15685091
+license: MIT
